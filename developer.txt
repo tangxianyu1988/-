@@ -1,2 +1,3 @@
 This the first commit from developer
 This is the second commit from developer
+This is the third commit from developer
